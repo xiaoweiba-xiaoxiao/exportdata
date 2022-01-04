@@ -1,2 +1,2 @@
 # exportdata
-useto exportdata tool 
+一个通用的数据库数据导出到excel,由于工作导数据诸多限制，因此写了一个通用得数据导出数据，目前仅完成mysql的部分。更多功能将后续慢慢完善。

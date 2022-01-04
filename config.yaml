@@ -1,0 +1,25 @@
+database:
+  host:  
+  port: 
+  user: 
+  password: 
+  database: 
+logs:
+  path: ./export.log
+excel:
+  name: mytest.xlsx
+  sheetsname:
+  - name: #sheetname
+    sqlstr: your sql #符合sqlx的标准，请注意占位符和参数匹配
+    args:
+    - 
+    - 
+  - name: 
+    sqlstr: 
+    args:
+  - name: 
+    sqlstr: 
+    args:
+  
+
+
